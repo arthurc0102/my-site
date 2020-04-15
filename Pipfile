@@ -12,6 +12,7 @@ bpython = "*"
 [packages]
 django = "*"
 django-environ = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.8"
